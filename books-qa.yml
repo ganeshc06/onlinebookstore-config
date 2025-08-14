@@ -1,7 +1,4 @@
-build:
-  version: "2.0"
-
-accounts:
+books:
   message: "Welcome to Online Book Store Books related QA APIs "
   contactDetails:
     name: "Ganesh Chauhan - QA Lead"

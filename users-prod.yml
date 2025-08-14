@@ -1,7 +1,4 @@
-build:
-  version: "1.0"
-
-cards:
+users:
   message: "Welcome to Online Book Store Users related prod APIs "
   contactDetails:
     name: "Ganesh Chauhan - Product Owner"

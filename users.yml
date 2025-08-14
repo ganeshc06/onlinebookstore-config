@@ -1,7 +1,4 @@
-build:
-  version: "3.0"
-
-cards:
+users:
   message: "Welcome to Online Book Store Users related local APIs "
   contactDetails:
     name: "Ganesh - Developer"

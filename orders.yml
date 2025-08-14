@@ -1,7 +1,4 @@
-build:
-  version: "3.0"
-
-loans:
+orders:
   message: "Welcome to Online Book Store Orders related local APIs "
   contactDetails:
     name: "Ganesh - Developer"

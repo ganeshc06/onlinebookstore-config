@@ -1,7 +1,4 @@
-build:
-  version: "3.0"
-
-accounts:
+books:
   message: "Welcome to Online Book Store Books related local APIs "
   contactDetails:
     name: "Ganesh Chauhan - Developer"
